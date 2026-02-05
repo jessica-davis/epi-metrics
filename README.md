@@ -41,12 +41,4 @@ git push -u origin main
 - **Interactive visualizations** for WIS, Coverage, and Prediction Intervals
 - **Mobile responsive**
 
-## 📚 Based on
 
-- CDC FluSight forecasting initiative
-- EPISTORM consortium documentation
-- Charting the Next Pandemic (Vespignani et al., 2019)
-
----
-
-Developed by [EPISTORM](https://www.epistorm.org) · CDC cooperative agreement CDC-RFA-FT-23-0069
